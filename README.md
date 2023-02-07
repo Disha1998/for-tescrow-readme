@@ -32,28 +32,37 @@
 
 ## Storage deal Auction
 
-#### Create Auction
+### Create Auction
+
 ![Screenshot 2023-02-07 at 1 27 24 PM](https://user-images.githubusercontent.com/69969675/217185569-0ad58965-3cdf-4712-b778-0eec7737dc97.png)
 
-#### My Created Auctions
+### My Created Auctions
+
 ![Screenshot 2023-02-07 at 1 27 34 PM](https://user-images.githubusercontent.com/69969675/217185578-f1e08e0e-e82c-46d2-bd88-2a73c5d2aa81.png)
 
-#### Make Bid. 
+### Make Bid. 
+
 **Only TescrowDevs NFT holders can make a bid**
+
+
 ![Screenshot 2023-02-07 at 1 27 42 PM](https://user-images.githubusercontent.com/69969675/217185580-09dab6fb-efdc-4578-b5ba-cfc68777044e.png)
 
-#### All Bids and Bidders
+### All Bids and Bidders
+
 ![Screenshot 2023-02-07 at 1 27 53 PM](https://user-images.githubusercontent.com/69969675/217185583-6d07d4f3-04f0-4aab-9df3-b1a936548ea2.png)
 
 ## eCommerce marketplace Agreement
 
-#### Create Agreement
+### Create Agreement
+
 ![Screenshot 2023-02-07 at 1 29 47 PM](https://user-images.githubusercontent.com/69969675/217185972-e86379c6-6b1d-47a5-a0b3-9395d6a6f684.png)
 
-#### My created Agreements
+### My created Agreements
+
 ![Screenshot 2023-02-07 at 1 29 56 PM](https://user-images.githubusercontent.com/69969675/217185979-90acf027-2b17-40a8-8fd6-95ed2083abac.png)
 
-#### Details of Buyes and Seller.
+### Details of Buyes and Seller.
+
 ![Screenshot 2023-02-07 at 1 30 06 PM](https://user-images.githubusercontent.com/69969675/217185983-6f397a11-e086-47b5-83c4-a7f2cac63342.png)
 
 
